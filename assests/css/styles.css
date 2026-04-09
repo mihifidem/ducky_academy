@@ -66,3 +66,12 @@ nav ul li a {
     color: var(--dark-color);
     font-size: var(--text-menu-size);
 }
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;   
+    background-color: var(--secondary-color);
+}
